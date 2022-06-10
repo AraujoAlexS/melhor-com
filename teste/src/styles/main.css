@@ -1,0 +1,16 @@
+.main {
+  display: grid;
+  place-items: center;
+  width: 100%;
+  height: 100%;
+}
+
+.table-head {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.table-head span {
+  padding: 20px 0;
+}
